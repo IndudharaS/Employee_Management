@@ -134,4 +134,4 @@ You will see a menu in the terminal:
 
 ## 📬 Author
 
-Developed by **[Your Name]**
+Developed by **Indudhara S**
